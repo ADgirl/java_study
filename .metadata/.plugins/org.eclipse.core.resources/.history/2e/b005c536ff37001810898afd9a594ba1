@@ -1,0 +1,11 @@
+package org.lhl.controller;
+import javax.servlet.http.*;
+import org.apache.commons.logging.*;
+import org.springframework.web.servlet.*;
+/*
+ * HelloController是一个实现Controller接口的控制器
+ * 可以处理一个单一的请求动作
+ * */
+public class HelloController implements Controller{
+	private static final Log logger = LogFactory.getLog(HelloController.class)
+}

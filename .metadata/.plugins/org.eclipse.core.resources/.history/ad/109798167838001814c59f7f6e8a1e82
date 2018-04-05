@@ -1,0 +1,6 @@
+package org.lhl.controller;
+
+@Controller
+public class ModelAttribute5Controller {
+
+}

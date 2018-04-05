@@ -1,0 +1,33 @@
+package org.lhl.domain;
+
+
+public class User implements Serializable{
+	private String loginname;
+	private String password;
+	private String username;
+	//公共构造器
+	public User() {
+		supper();
+	}
+	public String getLoginname() {
+		return loginname;
+	}
+	
+	public void setLoginname(String loginame) {
+		this.loginname = loginname;
+	}
+	
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+	public String setUsername() {
+		return username;
+	}
+	public void getUsername() {
+		this.username = username;
+	}
+}

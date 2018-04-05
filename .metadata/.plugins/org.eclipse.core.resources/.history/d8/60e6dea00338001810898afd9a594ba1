@@ -1,0 +1,13 @@
+package org.lhl.controller;
+import org.apache.commons.logging.*;
+import org.springframework.*;
+/*
+ * helloControllerTwo是一个基于注解的控制器
+ * 可以同时 处理多个请求动作，并且无需实现任何借口
+ * org.springframework.stereotype.Controller注解用于指示该类是一个控制器
+ * */
+@Controller
+
+public class helloControllerTwo {
+	private static final Log logger = LogFactory.getLog(HelloControllerTwo.class);
+}

@@ -1,0 +1,13 @@
+package org.lhl.controller;
+
+@Controller
+public class ModelAttribute3Controller {
+	private static List<User> userList;	//静态List<User>集合，此处代替数据库用来保存注册的用户信息
+	public ModelAttribute3Controller() {	//UserController类的构造器，初始化List<User>集合
+		super();
+		userList = new ArrayList<User>();
+		User user1 = new User("test","123456","测试用户");
+		User user2 = new User("admin","123456","管理员");
+	}
+	
+}

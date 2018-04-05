@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd">
+
+<!-- spring可以自动去扫描base-pack下面的包或者子包下面的java文件 ，
+		如果扫描到有spring的相关注解类，则把这些类注册为pring的bean-->
+		<context:component-scan base-package="org.lhl.controller" />
+		
+		<!-- 配置annotation类型的处理映射器 -->
+		<bean
+			class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping">
+		</bean>
+		
+		<!-- 配置annotation类型的处理器适配器 -->
+		<bean
+			class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter">
+		</bean>
+		<bean
+			class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+			<property name="prefix" value="/WEB-INF/content"></property>
+			<property name="suffix" value=".jsp"></property>
+		</bean>
+		
+		
+		<!-- 视图解析器 -->
+		
+</beans>

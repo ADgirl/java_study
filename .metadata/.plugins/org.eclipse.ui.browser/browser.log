@@ -1,0 +1,77 @@
+
+3月 22, 2018 15:24:44.45 NEW SESSION
+3月 22, 2018 15:24:44.45 [5716:6432:0322/152444.449:ERROR:component_installer.cc(317)] Failed to read manifest or verify installation for CRLSet (C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\CertificateRevocation\4350).: 系统找不到指定的文件。 (0x2)
+3月 22, 2018 15:24:45.85 [5716:5336:0322/152445.857:ERROR:ssl_client_socket_impl.cc(1040)] handshake failed; returned -1, SSL error code 1, net_error -103
+3月 22, 2018 15:32:44.99 [5716:5992:0322/153244.993:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 4.878 s
+3月 22, 2018 15:32:52.80 [5716:5992:0322/153252.801:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 4.878 s
+3月 22, 2018 15:32:54.26 [5716:5992:0322/153254.263:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 4.878 s
+3月 22, 2018 15:36:24.63 [5716:5992:0322/153624.637:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.27 s
+3月 22, 2018 15:36:30.57 [5716:5992:0322/153630.569:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.27 s
+3月 22, 2018 15:36:35.64 [5716:5992:0322/153635.649:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.27 s
+3月 22, 2018 15:37:01.97 [5716:5992:0322/153701.974:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.27 s
+3月 22, 2018 15:37:05.17 [5716:5992:0322/153705.173:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.27 s
+3月 22, 2018 15:37:21.67 [5716:5992:0322/153721.677:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 15:41:10.54 [5716:5992:0322/154110.543:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 15:43:26.75 [5716:5992:0322/154326.752:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 0.632 s
+3月 22, 2018 15:44:26.36 [5716:5992:0322/154426.365:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 15:46:48.32 [5716:5992:0322/154648.326:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.94 s
+3月 22, 2018 15:47:30.16 [5716:5992:0322/154730.162:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.94 s
+3月 22, 2018 15:47:43.91 [5716:5992:0322/154743.914:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.94 s
+3月 22, 2018 15:47:58.82 [5716:5992:0322/154758.820:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 15:52:48.99 [5716:5992:0322/155248.996:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 15:53:15.63 [5716:5992:0322/155315.637:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 2.137 s
+3月 22, 2018 15:53:51.75 [5716:5992:0322/155351.756:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 2.137 s
+3月 22, 2018 15:58:49.83 [5716:5992:0322/155849.832:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 0.701 s
+3月 22, 2018 15:58:53.60 [5716:5992:0322/155853.607:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 0.701 s
+3月 22, 2018 16:00:42.52 [5716:5992:0322/160042.520:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 16:12:48.13 [5716:5992:0322/161248.132:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 16:24:53.79 [5716:5992:0322/162453.790:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 16:36:59.50 [5716:5992:0322/163659.504:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 16:49:05.34 [5716:5992:0322/164905.346:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 17:01:11.16 [5716:5992:0322/170111.161:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 17:13:16.91 [5716:5992:0322/171316.917:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 17:25:22.69 [5716:5992:0322/172522.695:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 17:31:00.59 [5716:5992:0322/173100.599:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:31:09.84 [5716:5992:0322/173109.845:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:31:54.80 [5716:5992:0322/173154.804:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:32:56.20 [5716:5992:0322/173256.201:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:33:46.99 [5716:5992:0322/173346.990:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:34:21.76 [5716:5992:0322/173421.763:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 8.316 s
+3月 22, 2018 17:36:24.47 [5716:5992:0322/173624.477:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 82.677 s
+3月 22, 2018 17:36:36.61 [5716:5992:0322/173636.618:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 17:36:39.85 [5716:5992:0322/173639.856:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 17:36:41.23 [5716:5992:0322/173641.231:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 17:36:42.35 [5716:5992:0322/173642.356:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 17:37:28.48 [5716:5992:0322/173728.489:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 17:42:03.48 [5716:5992:0322/174203.482:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 17:49:34.21 [5716:5992:0322/174934.212:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 18:01:40.00 [5716:5992:0322/180140.001:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 18:13:45.70 [5716:5992:0322/181345.704:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 18:17:35.50 [5716:5992:0322/181735.508:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 18:17:37.52 [5716:5992:0322/181737.333:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 18:25:51.39 [5716:5992:0322/182551.395:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 18:42:50.61 [5716:5992:0322/184250.613:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 18:54:56.31 [5716:5992:0322/185456.315:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 19:07:01.92 [5716:5992:0322/190701.929:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 19:19:07.59 [5716:5992:0322/191907.596:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 19:31:13.34 [5716:5992:0322/193113.340:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 19:43:18.93 [5716:5992:0322/194318.933:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 19:55:24.59 [5716:5992:0322/195524.592:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 20:07:30.25 [5716:5992:0322/200730.252:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 20:19:35.93 [5716:5992:0322/201935.938:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 20:31:41.70 [5716:5992:0322/203141.699:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 20:43:47.32 [5716:5992:0322/204347.325:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 20:55:53.08 [5716:5992:0322/205553.082:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 21:07:58.73 [5716:5992:0322/210758.738:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 21:19:31.92 [5716:5992:0322/211931.926:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 21:20:04.39 [5716:5992:0322/212004.395:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 21:32:10.06 [5716:5992:0322/213210.061:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 21:44:15.91 [5716:5992:0322/214415.911:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 21:56:21.67 [5716:5992:0322/215621.671:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 22:08:27.38 [5716:5992:0322/220827.388:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 22:08:45.88 [5716:5992:0322/220845.883:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 1.386 s
+3月 22, 2018 22:20:33.00 [5716:5992:0322/222033.002:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 22:32:59.72 [5716:5992:0322/223259.726:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 22:45:05.51 [5716:5992:0322/224505.509:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 22:57:11.24 [5716:5992:0322/225711.243:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+3月 22, 2018 23:09:17.12 [5716:5992:0322/230917.123:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.

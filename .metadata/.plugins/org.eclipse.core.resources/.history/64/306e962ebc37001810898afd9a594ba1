@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+	<!-- 配置handle,映射hello请求 -->
+	<bean name="/hello" class="org.fkit.controller.helloController" />
+		<!-- 处理器映射的bean的name作为ur进行查找,需要在配置handle时指定name(即url) -->
+	<bean
+		class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping" />
+		<!-- SimpleControllerHandlerAdapter是一个处理器适配器，所有的处理器适配器都要实现HandlerAdapter接口 -->
+	<bean
+		class="org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter" />
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver" />
+</beans>

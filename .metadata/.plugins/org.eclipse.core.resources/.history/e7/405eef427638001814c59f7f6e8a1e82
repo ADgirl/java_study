@@ -1,0 +1,9 @@
+package org.lhl.controller;
+
+public class ModelAttribute4Controller {
+	@RequestMapping(value="/login4")
+	@ModelAttribute(value="username")
+	public String login4() {
+		return "admin";
+	}
+}

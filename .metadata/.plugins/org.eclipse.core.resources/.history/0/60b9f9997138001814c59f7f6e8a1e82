@@ -1,0 +1,5 @@
+package org.lhl.domain;
+
+public class User {
+
+}
